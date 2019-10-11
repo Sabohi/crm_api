@@ -1,0 +1,20 @@
+{
+	"65396139-6161-3134-2d65-6134622d3131":
+	{
+		"totalTickets":{"data":{"primary": {"value": 415,"progress_value": 23},"secondary": {"value": 49,"progress_value": 74}}},
+		"totalMails":{"data":{"primary": {"value": 122,"progress_value": 49},"secondary": {"value": 77,"progress_value": 74}}},
+		"totalUsers":{"data":{"primary": {"value": 119,"progress_value": 55},"secondary": {"value": 49,"progress_value": 74}}},
+		"priorityTickets":{"data":[{"name":"Critical","value":30},{"name":"Semi-Critical","value":40},{"name":"Non-Critical","value":20}]},
+		"statusTickets":{"data":[{"name":"New","value":24},{"name":"InProgress","value":67},{"name":"Closed","value":236},{"name":"Reopen","value":97},{"name":"Resolved","value":110}]},"categoryTickets":{"data":[{"name":"Complaint","value":5},{"name":"Query","value":3},{"name":"Suggestion","value":2}]}
+	},
+	"39396161-3736-3536-2d65-6134622d3131":
+	{
+			"totalTickets":{"data":{"primary": {"value": 200,"progress_value": 23},"secondary": {"value": 40,"progress_value": 80}}},
+                "totalMails":{"data":{"primary": {"value": 100,"progress_value": 50},"secondary": {"value": 50,"progress_value": 50}}},
+                "totalUsers":{"data":{"primary": {"value": 40,"progress_value": 50},"secondary": {"value": 30,"progress_value": 40}}},
+                "priorityTickets":{"data":[{"name":"Critical","value":40},{"name":"Semi-Critical","value":120},{"name":"Non-Critical","value":40}]},
+                "statusTickets":{"data":[{"name":"New","value":30},{"name":"InProgress","value":40},{"name":"Closed","value":80},{"name":"Reopen","value":30},{"name":"Resolved","value":20}]},"categoryTickets":{"data":[{"name":"Complaint","value":100},{"name":"Query","value":50},{"name":"Suggestion","value":50}]}
+
+	}
+}
+

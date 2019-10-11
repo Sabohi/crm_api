@@ -1,0 +1,15 @@
+{
+	"65396139-6161-3134-2d65-6134622d3131":
+	{
+		"tickets":{"ticketCreated":20,"ticketClosed":10,"ticketClosedRate":50,"ticketEscalated":5,"escalationRate":"25"},"mails":{"mailReceived":15,"mailReplied":12,"freshMailReceived":3,"freshMailReplied":3},"users":{"totalUsers":16,"activeUsers":10,"loggedInUsers":8},"priorityTickets":{"data":[{"name":"Critical","value":30},{"name":"Semi-Critical","value":40},{"name":"Non-Critical","value":20}]},"statusTickets":{"data":[{"name":"New","value":2},{"name":"InProgress","value":"3"},{"name":"Closed","value":3},{"name":"Reopen","value":2},{"name":"Resolved","value":1}]},"categoryTickets":{"data":[{"name":"Complaint","value":5},{"name":"Query","value":3},{"name":"Suggestion","value":2}]}
+	},
+	"39396161-3736-3536-2d65-6134622d3131":
+	{
+		"tickets":{"ticketCreated":30,"ticketClosed":10,"ticketClosedRate":50,"ticketEscalated":5,"escalationRate":"25"},
+		"mails":{"mailReceived":15,"mailReplied":12,"freshMailReceived":3,"freshMailReplied":3},
+		"users":{"totalUsers":16,"activeUsers":10,"loggedInUsers":8},
+		"priorityTickets":{"data":[{"name":"Critical","value":30},{"name":"Semi-Critical","value":40},{"name":"Non-Critical","value":20}]},
+		"statusTickets":{"data":[{"name":"New","value":2},{"name":"InProgress","value":"3"},{"name":"Closed","value":3},{"name":"Reopen","value":2},{"name":"Resolved","value":1}]},
+		"categoryTickets":{"data":[{"name":"Complaint","value":5},{"name":"Query","value":3},{"name":"Suggestion","value":2}]}
+	}
+}
